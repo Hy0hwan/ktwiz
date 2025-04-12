@@ -13,7 +13,7 @@ function KtwizAboutPage() {
         <TabMenu tabs={KTWIZ_BANNER_DATA[''].tabs!} />
       </Banner>
 
-      <div className="page">KtwizPage</div>
+      <div className="page">KtwizPage!</div>
     </div>
   )
 }
